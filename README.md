@@ -18,7 +18,6 @@ This repository contains the project "The Monster Slayer Game" developed as part
 
 - HTML5 and CSS3 for the user interface.
 - Vue.js for the application's logic and dynamic data binding.
-- Vue Router is used for handling different views in the game.
 - The project was developed following modern Vue.js practices, including the Composition API.
 
 ## Getting Started
